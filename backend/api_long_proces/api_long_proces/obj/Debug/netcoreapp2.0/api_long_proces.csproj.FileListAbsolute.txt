@@ -1,0 +1,11 @@
+/Users/ramirobedoya/workspace/long_process/backend/api_long_proces/api_long_proces/bin/Debug/netcoreapp2.0/api_long_proces.deps.json
+/Users/ramirobedoya/workspace/long_process/backend/api_long_proces/api_long_proces/bin/Debug/netcoreapp2.0/api_long_proces.runtimeconfig.json
+/Users/ramirobedoya/workspace/long_process/backend/api_long_proces/api_long_proces/bin/Debug/netcoreapp2.0/api_long_proces.runtimeconfig.dev.json
+/Users/ramirobedoya/workspace/long_process/backend/api_long_proces/api_long_proces/bin/Debug/netcoreapp2.0/api_long_proces.dll
+/Users/ramirobedoya/workspace/long_process/backend/api_long_proces/api_long_proces/bin/Debug/netcoreapp2.0/api_long_proces.pdb
+/Users/ramirobedoya/workspace/long_process/backend/api_long_proces/api_long_proces/obj/Debug/netcoreapp2.0/api_long_proces.csprojResolveAssemblyReference.cache
+/Users/ramirobedoya/workspace/long_process/backend/api_long_proces/api_long_proces/obj/Debug/netcoreapp2.0/api_long_proces.csproj.CoreCompileInputs.cache
+/Users/ramirobedoya/workspace/long_process/backend/api_long_proces/api_long_proces/obj/Debug/netcoreapp2.0/api_long_proces.AssemblyInfoInputs.cache
+/Users/ramirobedoya/workspace/long_process/backend/api_long_proces/api_long_proces/obj/Debug/netcoreapp2.0/api_long_proces.AssemblyInfo.cs
+/Users/ramirobedoya/workspace/long_process/backend/api_long_proces/api_long_proces/obj/Debug/netcoreapp2.0/api_long_proces.dll
+/Users/ramirobedoya/workspace/long_process/backend/api_long_proces/api_long_proces/obj/Debug/netcoreapp2.0/api_long_proces.pdb

@@ -1,0 +1,10 @@
+/Users/ramirobedoya/workspace/long_process/receive/obj/Debug/netcoreapp2.0/Receive.csproj.CoreCompileInputs.cache
+/Users/ramirobedoya/workspace/long_process/receive/obj/Debug/netcoreapp2.0/Receive.AssemblyInfoInputs.cache
+/Users/ramirobedoya/workspace/long_process/receive/obj/Debug/netcoreapp2.0/Receive.AssemblyInfo.cs
+/Users/ramirobedoya/workspace/long_process/receive/bin/Debug/netcoreapp2.0/Receive.deps.json
+/Users/ramirobedoya/workspace/long_process/receive/bin/Debug/netcoreapp2.0/Receive.runtimeconfig.json
+/Users/ramirobedoya/workspace/long_process/receive/bin/Debug/netcoreapp2.0/Receive.runtimeconfig.dev.json
+/Users/ramirobedoya/workspace/long_process/receive/bin/Debug/netcoreapp2.0/Receive.dll
+/Users/ramirobedoya/workspace/long_process/receive/bin/Debug/netcoreapp2.0/Receive.pdb
+/Users/ramirobedoya/workspace/long_process/receive/obj/Debug/netcoreapp2.0/Receive.dll
+/Users/ramirobedoya/workspace/long_process/receive/obj/Debug/netcoreapp2.0/Receive.pdb
