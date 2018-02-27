@@ -25,7 +25,7 @@ namespace api_long_proces.Controllers
                                      autoDelete: false,
                                      arguments: null);
 
-                string message = "Hello World!";
+                string message = "Hello World!" + new Random().Next(1,3000); ;
                 var body = Encoding.UTF8.GetBytes(message);
 
                 channel.BasicPublish(exchange: "",

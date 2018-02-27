@@ -11,7 +11,7 @@ Tecnologías usadas:
 
     $ docker run -d --hostname my-rabbit --name some-rabbit -p 8080:15672 -p 5672:5672  rabbitmq:3-management
 
-2. En la carpeta recive ejecutar
+2. En la carpeta recibe ejecutar
     $ dotner run 
 
     La aplicación de consola comenzará a escuchar la cola del rabbitmq
