@@ -20,6 +20,10 @@ Tecnologías usadas:
     http://localhost:5000/api/values
 
 
+ docker build -t aspnetapp .
+docker run -d -p 80:80 --name myapp aspnetapp
+
+TODO:Docker-composearlo
 TODO: Hacer una aplicación en Angular que suba un archivo a S3, 
 TODO: Poner una cola con esa URL del archivo subido, 
 TODO: En el servicio, ejecutar el proceso de descargar la base y enviar mensajes a una cola de proceso. 
